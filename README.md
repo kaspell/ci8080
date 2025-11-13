@@ -13,3 +13,7 @@ This implementation follows the Intel 8080 Assembly Language Programming Manual 
     CC BY-NC-SA 4.0 License: <a href="https://collection.sciencemuseumgroup.org.uk/objects/co8384574/closed-intel-8080-microprocessor-chip-1974-1977-microprocessor">Source</a>.
   </span>
 </p>
+
+## License
+
+This repository is licensed under the [MIT license](https://github.com/kaspell/ci8080/blob/master/LICENSE).
