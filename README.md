@@ -7,7 +7,7 @@ This implementation follows the Intel 8080 Assembly Language Programming Manual 
 <br/>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/kaspell/ci8080/refs/heads/test_branch/i8080-close.jpg" alt="" width="700" />
+        <img src="https://raw.githubusercontent.com/kaspell/ci8080/refs/heads/master/i8080-close.jpg" alt="" width="700" />
 <br>
   <span>
     CC BY-NC-SA 4.0 License: <a href="https://collection.sciencemuseumgroup.org.uk/objects/co8384574/closed-intel-8080-microprocessor-chip-1974-1977-microprocessor">Source</a>.
